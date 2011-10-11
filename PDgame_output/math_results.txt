@@ -1,0 +1,159 @@
+John K. Pang
+1 Tournament/10 rounds per Match/Payoff is (1,1), (0,5), (5,0), (3,3)
+run:
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  21   Player 2 Score:  21
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  24   Player 2 Score:  24
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Random T4T Player   Player 1 Score:  24   Player 2 Score:  29
+Match Result >>     Player 1:  RandomPlayer     Player 2:  CoopPlayer   Player 1 Score:  3   Player 2 Score:  38
+Match Result >>     Player 1:  RandomPlayer     Player 2:  DefectPlayer   Player 1 Score:  38   Player 2 Score:  18
+Match Result >>     Player 1:  RandomPlayer     Player 2:  HumanPlayer   Player 1 Score:  26   Player 2 Score:  21
+Match Result >>     Player 1:  RandomPlayer     Player 2:  RandomPlayer   Player 1 Score:  34   Player 2 Score:  9
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  24   Player 2 Score:  24
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  23   Player 2 Score:  18
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Random T4T Player   Player 1 Score:  18   Player 2 Score:  18
+Match Result >>     Player 1:  RandomPlayer     Player 2:  CoopPlayer   Player 1 Score:  6   Player 2 Score:  26
+Match Result >>     Player 1:  RandomPlayer     Player 2:  DefectPlayer   Player 1 Score:  38   Player 2 Score:  18
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  RandomPlayer   Player 1 Score:  25   Player 2 Score:  20
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Random T4T Player   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  CoopPlayer   Player 1 Score:  9   Player 2 Score:  14
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  HumanPlayer   Player 1 Score:  22   Player 2 Score:  27
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  RandomPlayer   Player 1 Score:  27   Player 2 Score:  22
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Random T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  CoopPlayer   Player 1 Score:  9   Player 2 Score:  14
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  RandomPlayer   Player 1 Score:  15   Player 2 Score:  20
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Random T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  CoopPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  HumanPlayer   Player 1 Score:  24   Player 2 Score:  29
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  RandomPlayer   Player 1 Score:  27   Player 2 Score:  22
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Random T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  CoopPlayer   Player 1 Score:  9   Player 2 Score:  14
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Random T4T Player     Player 2:  RandomPlayer   Player 1 Score:  18   Player 2 Score:  23
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Random T4T Player     Player 2:  CoopPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Random T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Random T4T Player     Player 2:  HumanPlayer   Player 1 Score:  23   Player 2 Score:  28
+Match Result >>     Player 1:  Random T4T Player     Player 2:  RandomPlayer   Player 1 Score:  21   Player 2 Score:  21
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Random T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Random T4T Player     Player 2:  CoopPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Random T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  CoopPlayer     Player 2:  RandomPlayer   Player 1 Score:  34   Player 2 Score:  4
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  14   Player 2 Score:  9
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  14   Player 2 Score:  9
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Random T4T Player   Player 1 Score:  14   Player 2 Score:  9
+Match Result >>     Player 1:  CoopPlayer     Player 2:  DefectPlayer   Player 1 Score:  50   Player 2 Score:  0
+Match Result >>     Player 1:  CoopPlayer     Player 2:  HumanPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  CoopPlayer     Player 2:  RandomPlayer   Player 1 Score:  22   Player 2 Score:  7
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Random T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  CoopPlayer     Player 2:  CoopPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  CoopPlayer     Player 2:  DefectPlayer   Player 1 Score:  50   Player 2 Score:  0
+Match Result >>     Player 1:  DefectPlayer     Player 2:  RandomPlayer   Player 1 Score:  21   Player 2 Score:  36
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Random T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  CoopPlayer   Player 1 Score:  0   Player 2 Score:  50
+Match Result >>     Player 1:  DefectPlayer     Player 2:  HumanPlayer   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  DefectPlayer     Player 2:  RandomPlayer   Player 1 Score:  24   Player 2 Score:  34
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Random T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  CoopPlayer   Player 1 Score:  0   Player 2 Score:  50
+Match Result >>     Player 1:  DefectPlayer     Player 2:  DefectPlayer   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  HumanPlayer     Player 2:  RandomPlayer   Player 1 Score:  36   Player 2 Score:  11
+Match Result >>     Player 1:  HumanPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  19   Player 2 Score:  19
+Match Result >>     Player 1:  HumanPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  28   Player 2 Score:  28
+Match Result >>     Player 1:  HumanPlayer     Player 2:  Random T4T Player   Player 1 Score:  24   Player 2 Score:  19
+Match Result >>     Player 1:  HumanPlayer     Player 2:  CoopPlayer   Player 1 Score:  4   Player 2 Score:  34
+Match Result >>     Player 1:  HumanPlayer     Player 2:  DefectPlayer   Player 1 Score:  50   Player 2 Score:  0
+Match Result >>     Player 1:  HumanPlayer     Player 2:  RandomPlayer   Player 1 Score:  9   Player 2 Score:  44
+Match Result >>     Player 1:  HumanPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  HumanPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  21   Player 2 Score:  21
+Match Result >>     Player 1:  HumanPlayer     Player 2:  Random T4T Player   Player 1 Score:  27   Player 2 Score:  27
+Match Result >>     Player 1:  HumanPlayer     Player 2:  CoopPlayer   Player 1 Score:  8   Player 2 Score:  18
+Match Result >>     Player 1:  HumanPlayer     Player 2:  DefectPlayer   Player 1 Score:  34   Player 2 Score:  24
+Match Result >>     Player 1:  RandomPlayer     Player 2:  RandomPlayer   Player 1 Score:  16   Player 2 Score:  36
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  27   Player 2 Score:  22
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  26   Player 2 Score:  21
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Random T4T Player   Player 1 Score:  21   Player 2 Score:  26
+Match Result >>     Player 1:  RandomPlayer     Player 2:  CoopPlayer   Player 1 Score:  7   Player 2 Score:  22
+Match Result >>     Player 1:  RandomPlayer     Player 2:  DefectPlayer   Player 1 Score:  42   Player 2 Score:  12
+Match Result >>     Player 1:  RandomPlayer     Player 2:  HumanPlayer   Player 1 Score:  7   Player 2 Score:  22
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  25   Player 2 Score:  20
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  23   Player 2 Score:  18
+Match Result >>     Player 1:  RandomPlayer     Player 2:  Random T4T Player   Player 1 Score:  26   Player 2 Score:  21
+Match Result >>     Player 1:  RandomPlayer     Player 2:  CoopPlayer   Player 1 Score:  6   Player 2 Score:  26
+Match Result >>     Player 1:  RandomPlayer     Player 2:  DefectPlayer   Player 1 Score:  34   Player 2 Score:  24
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  RandomPlayer   Player 1 Score:  18   Player 2 Score:  18
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Random T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  CoopPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  HumanPlayer   Player 1 Score:  9   Player 2 Score:  14
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  RandomPlayer   Player 1 Score:  26   Player 2 Score:  21
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  Random T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  CoopPlayer   Player 1 Score:  9   Player 2 Score:  14
+Match Result >>     Player 1:  Optimistic T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  RandomPlayer   Player 1 Score:  28   Player 2 Score:  28
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Random T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  CoopPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  HumanPlayer   Player 1 Score:  9   Player 2 Score:  14
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  RandomPlayer   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  Random T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  CoopPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  Pessimistic T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Random T4T Player     Player 2:  RandomPlayer   Player 1 Score:  23   Player 2 Score:  18
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  25   Player 2 Score:  25
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Random T4T Player   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  Random T4T Player     Player 2:  CoopPlayer   Player 1 Score:  9   Player 2 Score:  14
+Match Result >>     Player 1:  Random T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  Random T4T Player     Player 2:  HumanPlayer   Player 1 Score:  29   Player 2 Score:  29
+Match Result >>     Player 1:  Random T4T Player     Player 2:  RandomPlayer   Player 1 Score:  20   Player 2 Score:  20
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Optimistic T4T Player   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  Random T4T Player     Player 2:  Pessimistic T4T Player   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  Random T4T Player     Player 2:  CoopPlayer   Player 1 Score:  9   Player 2 Score:  14
+Match Result >>     Player 1:  Random T4T Player     Player 2:  DefectPlayer   Player 1 Score:  32   Player 2 Score:  27
+Match Result >>     Player 1:  CoopPlayer     Player 2:  RandomPlayer   Player 1 Score:  18   Player 2 Score:  8
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Random T4T Player   Player 1 Score:  14   Player 2 Score:  9
+Match Result >>     Player 1:  CoopPlayer     Player 2:  CoopPlayer   Player 1 Score:  10   Player 2 Score:  10
+Match Result >>     Player 1:  CoopPlayer     Player 2:  DefectPlayer   Player 1 Score:  50   Player 2 Score:  0
+Match Result >>     Player 1:  CoopPlayer     Player 2:  HumanPlayer   Player 1 Score:  26   Player 2 Score:  6
+Match Result >>     Player 1:  CoopPlayer     Player 2:  RandomPlayer   Player 1 Score:  22   Player 2 Score:  7
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  14   Player 2 Score:  9
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  14   Player 2 Score:  9
+Match Result >>     Player 1:  CoopPlayer     Player 2:  Random T4T Player   Player 1 Score:  14   Player 2 Score:  9
+Match Result >>     Player 1:  CoopPlayer     Player 2:  DefectPlayer   Player 1 Score:  50   Player 2 Score:  0
+Match Result >>     Player 1:  DefectPlayer     Player 2:  RandomPlayer   Player 1 Score:  15   Player 2 Score:  40
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Random T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  CoopPlayer   Player 1 Score:  0   Player 2 Score:  50
+Match Result >>     Player 1:  DefectPlayer     Player 2:  DefectPlayer   Player 1 Score:  30   Player 2 Score:  30
+Match Result >>     Player 1:  DefectPlayer     Player 2:  HumanPlayer   Player 1 Score:  0   Player 2 Score:  50
+Match Result >>     Player 1:  DefectPlayer     Player 2:  RandomPlayer   Player 1 Score:  21   Player 2 Score:  36
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Optimistic T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Pessimistic T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  Random T4T Player   Player 1 Score:  27   Player 2 Score:  32
+Match Result >>     Player 1:  DefectPlayer     Player 2:  CoopPlayer   Player 1 Score:  0   Player 2 Score:  50
